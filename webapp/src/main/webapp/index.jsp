@@ -2,14 +2,14 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <h3>Change some update from supercoolm1</h3>
-    <h2>
+    <h5>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, amet
       itaque voluptatem iusto, reiciendis autem quam alias quo sint deleniti
       incidunt culpa labore, nobis at aliquam sed tenetur molestiae. Laboriosam
       repellendus quae maxime sapiente quod dolorem explicabo odio dignissimos
       harum. Placeat saepe laudantium unde labore repudiandae iusto distinctio
       totam? Ab.
-    </h2>
+    </h5>
     <p>Please fill in this form to create an account.</p>
     <hr />
 
