@@ -81,11 +81,4 @@
   </div>
 
   <h1>Thankyou, Happy Learning</h1>
-
-  <p>
-    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias eos
-    expedita, enim asperiores consequatur libero velit impedit aperiam
-    cupiditate ea! Recusandae suscipit necessitatibus impedit modi facilis
-    fugiat! Quidem, aperiam vitae.
-  </p>
 </form>
