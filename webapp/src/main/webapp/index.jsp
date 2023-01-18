@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <h3>I love winter!</h3>
+    <h3><a href="https://www.instagram.com/todayis_wendy" target="_blank">Wendy Shon</a></h3>
     <h3><a href="https://www.instagram.com/p/CngLgJGh_jV/" target="_blank">Ning Ning</a></h3>
     <p>Please fill in this form to create an account.</p>
     <hr />
